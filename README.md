@@ -3,7 +3,7 @@
 Vollständige Entwickler-Dokumentation für den ESX BusJob.
 Diese README ist komplett in Dropdowns aufgebaut und eignet sich perfekt für GitHub.
 
-Showcase: (Youtube)[https://youtu.be/d4hCd5t_ssc]
+Showcase: [Youtube](https://youtu.be/d4hCd5t_ssc)
 
 
 ---
