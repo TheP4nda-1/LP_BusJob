@@ -310,7 +310,7 @@ v1.0.0
 
 Author: TheP4nda(Walter David)  
 Framework: ESX  
-Usage: Private / Public / Commercial (anpassen)
+Usage: Public
 
 </details>
 
